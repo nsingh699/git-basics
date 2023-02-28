@@ -2,4 +2,6 @@ This is the initial test file
 
 My name is navjot I live in LA
 
-This is Niket from Ontario,Canada
+This is Niket from Ontario,
+
+This is Sam Noman from Los Angeles, California.
